@@ -1,4 +1,4 @@
-*Read this in other language : [English](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.md),* 
+*Read this in other language : [English](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.md)*  
 
 ### Bonjour ! 👋   
 
