@@ -1,6 +1,6 @@
-### Hi there ! 👋   
+*Read this in other language : [Français](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.fr.md)*   
 
-*Languages : [English](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.md) , [Français](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.fr.md)*   
+### Hi there ! 👋   
 
 Here you will find all my github projects.
 
@@ -66,4 +66,4 @@ Projects carried out as part of my university studies :
 
 ## Personnal projects   
 
-Not public for now.
+🌱 Not public for now. 🌱
