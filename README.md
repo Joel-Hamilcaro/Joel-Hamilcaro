@@ -1,4 +1,6 @@
-### Hi there ! 👋 
+### Hi there ! 👋   
+
+*Languages : [English](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.md) , [Français](https://github.com/Joel-Hamilcaro/Joel-Hamilcaro/blob/main/README.fr.md)*   
 
 Here you will find all my github projects.
 
