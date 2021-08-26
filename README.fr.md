@@ -66,4 +66,7 @@ Projets réalisés dans le cadre de mes études universitaires :
 
 ## Projets personnels   
 
-🌱 Non publics pour le moment 🌱
+   +  [Les katas de karaté en compétitions sportives de haut niveau : Statistiques, analyse des données et visualisations](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions)   
+      <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Plotly%20-%231572B6.svg?&style=flat-square&logo=plotly&logoColor=white"/> 
+      
+🌱 Autres projets : privés pour le moment 🌱
