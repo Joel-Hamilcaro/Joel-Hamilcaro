@@ -4,6 +4,13 @@
 
 Here you will find all my github projects.
 
+## Personnal projects   
+
+   +  [Karate katas in high-level competitions: Statistics, Data analysis and Visualizations](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions)   
+      <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Plotly%20-%231572B6.svg?&style=flat-square&logo=plotly&logoColor=white"/> 
+      
+🌱 Other projects: private for the moment 🌱
+
 ## Academic projects
 
 Projects carried out as part of my university studies :
@@ -62,11 +69,3 @@ Projects carried out as part of my university studies :
 
    + [Web programming : Forum 75](https://github.com/Joel-Hamilcaro/Forum-75)   
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-
-
-## Personnal projects   
-
-   +  [Karate katas in high-level competitions: Statistics, Data analysis and Visualizations](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions)   
-      <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Plotly%20-%231572B6.svg?&style=flat-square&logo=plotly&logoColor=white"/> 
-      
-🌱 Other projects: private for the moment 🌱
