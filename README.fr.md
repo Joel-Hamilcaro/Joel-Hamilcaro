@@ -11,6 +11,10 @@ Vous trouverez ici tous mes projets github.
    +  [Les katas de karaté en compétitions sportives de haut niveau : Statistiques, analyse des données et visualisations](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions)   
       <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Plotly%20-%231572B6.svg?&style=flat-square&logo=plotly&logoColor=white"/> 
       
+      
+   + NLP : Classification de documents, Analyse de sentiment *(privé pour le moment)*  
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    
 🌱 Autres projets : privés pour le moment 🌱  
 
 
@@ -27,9 +31,6 @@ Projets réalisés dans le cadre de mes études universitaires :
     
    + Deep Learning : Classification de vêtements à partir de photos *(Disponible à la fin du semestre universitaire)*  
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />
-   
-   + NLP : Classification de documents, Analyse de sentiment, Extraction de thèmes *(privé pour le moment)*  
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
     
 ##### Quatrième année (Master 1)  
 
