@@ -20,6 +20,17 @@ Projets réalisés dans le cadre de mes études universitaires :
 > Double Master Mathématiques & Informatique pour la Science des Données  
 > Double Licence Mathématiques et Informatique 
 
+##### Cinquième année (Master 2)  
+
+  + Machine Learning : Prédiction de l'énergie produite par des turbines éoliennes *(Disponible à la fin du semestre universitaire)*  
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    
+   + Deep Learning : Classification de vêtements à partir de photos *(Disponible à la fin du semestre universitaire)*  
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />
+   
+   + NLP : Classification de documents, Analyse de sentiment, Extraction de thèmes *(privé pour le moment)*  
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    
 ##### Quatrième année (Master 1)  
 
 
