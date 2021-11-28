@@ -22,7 +22,7 @@ Projects carried out as part of my university studies :
 > Double Master's Degree in mathematics and computer science for Data Science  
 > Double Bachelor's Degree in mathematics and computer science
 
-##### Fourth year (Master 2)  
+##### Fifth year (Master 2)  
  
   + Machine Learning : Predict the energy produced by wind turbines *(Available at the end of the academic semester)*  
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
