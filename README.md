@@ -8,10 +8,10 @@ Here you will find all my github projects.
 
 ## Various projects   
  
-   +  [Karate katas in high-level competitions: Statistics, Data analysis and Visualizations](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions)   
+   +  [Karate katas in high-level competitions: Statistics, Data analysis and Visualizations](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions)      
       <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Plotly%20-%231572B6.svg?&style=flat-square&logo=plotly&logoColor=white"/> 
       
-   + NLP : Document classification, Sentiment analysis *(private for now)*  
+   + 🔒 NLP : Document classification, Sentiment analysis *(private)*    
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
     
 🌱 Other projects: private for the moment 🌱
@@ -24,11 +24,11 @@ Projects carried out as part of my university studies :
 
 ##### Fifth year (Master 2)  
  
-  + Machine Learning : Predict the energy produced by wind turbines *(Available at the end of the academic semester)*  
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  + [Machine Learning : Predict the energy produced by wind turbines](https://github.com/Joel-Hamilcaro/Predicting-wind-energy)    
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
     
-   + Deep Learning : Clothing classification from photos *(Available at the end of the academic semester)*  
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />
+   + [Deep Learning : Clothing classification from photos](https://github.com/Joel-Hamilcaro/Classification-de-vetements)    
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" /><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" /><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
 
 ##### Fourth year (Master 1)  
 
