@@ -4,7 +4,7 @@
 
 Here you will find all my github projects.
 
-🔗 My website : [https://joel-hamilcaro.github.io/](https://joel-hamilcaro.github.io/)
+🔗 My website : [https://joelhamilcaro.com/](https://joelhamilcaro.com/)
 
 ## Various projects   
  
